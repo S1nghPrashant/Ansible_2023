@@ -1,5 +1,5 @@
--hosts: all
+- hosts: all
 tasks: 
-  -package: "name=dialog statae=present"
+  - package: "name=dialog statae=present"
 
   
